@@ -1,0 +1,2 @@
+# wisdom
+Useful links.
