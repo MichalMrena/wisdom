@@ -8,3 +8,6 @@ Useful links.
 **requires** [https://akrzemi1.wordpress.com/2020/01/29/requires-expression/](https://akrzemi1.wordpress.com/2020/01/29/requires-expression/)  
 **pointers** [https://www.codeproject.com/articles/7042/how-to-interpret-complex-c-c-declarations](https://www.codeproject.com/articles/7042/how-to-interpret-complex-c-c-declarations)  
 **rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/)  
+  
+## Other
+**awk** [https://earthly.dev/blog/awk-examples/](https://earthly.dev/blog/awk-examples/)
