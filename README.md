@@ -10,5 +10,5 @@ Useful links leading to wisdom.
 **rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/)  
   
 ## Other
-**awk** [https://earthly.dev/blog/awk-examples/](https://earthly.dev/blog/awk-examples/)
+**awk** [https://earthly.dev/blog/awk-examples/](https://earthly.dev/blog/awk-examples/)  
 **password hash** [https://crackstation.net/hashing-security.htm](https://crackstation.net/hashing-security.htm)  
