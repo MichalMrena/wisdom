@@ -8,7 +8,10 @@ Useful links leading to wisdom.
 **ranges** [https://tristanbrindle.com/posts/rvalue-ranges-and-views](https://tristanbrindle.com/posts/rvalue-ranges-and-views)  
 **requires** [https://akrzemi1.wordpress.com/2020/01/29/requires-expression/](https://akrzemi1.wordpress.com/2020/01/29/requires-expression/)  
 **rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/)  
-  
+
+## Haskell
+**Parsec intro** [https://jsdw.me/posts/haskell-parsec-basics/](https://jsdw.me/posts/haskell-parsec-basics/)  
+
 ## Other
 **awk** [https://earthly.dev/blog/awk-examples/](https://earthly.dev/blog/awk-examples/)  
 **password hash** [https://crackstation.net/hashing-security.htm](https://crackstation.net/hashing-security.htm)  
