@@ -12,6 +12,7 @@ Useful links leading to wisdom.
 **rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/)  
 
 ## Haskell
+**folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
 **Parsec intro** [https://jsdw.me/posts/haskell-parsec-basics/](https://jsdw.me/posts/haskell-parsec-basics/)  
 
 ## Other
