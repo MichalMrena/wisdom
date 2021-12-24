@@ -3,7 +3,7 @@ Useful links leading to wisdom.
 
 
 ## C++
-**ffast-math** [https://simonbyrne.github.io/notes/fastmath/](https://simonbyrne.github.io/notes/fastmath/)
+**ffast-math** [https://simonbyrne.github.io/notes/fastmath/](https://simonbyrne.github.io/notes/fastmath/)  
 **pointers** [https://www.codeproject.com/articles/7042/how-to-interpret-complex-c-c-declarations](https://www.codeproject.com/articles/7042/how-to-interpret-complex-c-c-declarations)  
 **sentinels** [https://www.foonathan.net/2020/03/iterator-sentinel/](https://www.foonathan.net/2020/03/iterator-sentinel/)  
 **structured bindings** [https://jguegant.github.io/blogs/tech/structured-bindings.html](https://jguegant.github.io/blogs/tech/structured-bindings.html)  
