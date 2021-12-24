@@ -8,6 +8,7 @@ Useful links leading to wisdom.
 **sentinels** [https://www.foonathan.net/2020/03/iterator-sentinel/](https://www.foonathan.net/2020/03/iterator-sentinel/)  
 **structured bindings** [https://jguegant.github.io/blogs/tech/structured-bindings.html](https://jguegant.github.io/blogs/tech/structured-bindings.html)  
 **ranges** [https://tristanbrindle.com/posts/rvalue-ranges-and-views](https://tristanbrindle.com/posts/rvalue-ranges-and-views)  
+**ranges_2** [https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0](https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0)  
 **requires** [https://akrzemi1.wordpress.com/2020/01/29/requires-expression/](https://akrzemi1.wordpress.com/2020/01/29/requires-expression/)  
 **rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/)  
 **cheatsheets** [https://hackingcpp.com/cpp/std/vector.html](https://hackingcpp.com/cpp/std/vector.html)  
