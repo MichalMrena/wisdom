@@ -19,4 +19,5 @@ Useful links leading to wisdom.
 
 ## Other
 **awk** [https://earthly.dev/blog/awk-examples/](https://earthly.dev/blog/awk-examples/)  
+**makefiles** [nuclear.mutantstargoat.com/articles/make/](nuclear.mutantstargoat.com/articles/make/)  
 **password hash** [https://crackstation.net/hashing-security.htm](https://crackstation.net/hashing-security.htm)  
