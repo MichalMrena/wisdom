@@ -10,7 +10,7 @@ Useful links leading to wisdom.
 **ranges** [https://tristanbrindle.com/posts/rvalue-ranges-and-views](https://tristanbrindle.com/posts/rvalue-ranges-and-views)  
 **ranges_2** [https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0](https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0)  
 **requires** [https://akrzemi1.wordpress.com/2020/01/29/requires-expression/](https://akrzemi1.wordpress.com/2020/01/29/requires-expression/)  
-**rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/) 
+**rng dist state** [https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/](https://quuxplusone.github.io/blog/2019/10/22/psa-stateful-distributions/)  
 **cheatsheets** [https://hackingcpp.com/cpp/std/vector.html](https://hackingcpp.com/cpp/std/vector.html)  
 **malloc/new** [https://isocpp.org/wiki/faq/freestore-mgmt#mixing-malloc-and-delete](https://isocpp.org/wiki/faq/freestore-mgmt#mixing-malloc-and-delete)  
 **vtable** [https://pabloariasal.github.io/2017/06/10/understanding-virtual-tables/](https://pabloariasal.github.io/2017/06/10/understanding-virtual-tables/)  
