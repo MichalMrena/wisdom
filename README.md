@@ -20,7 +20,8 @@ Useful links leading to wisdom.
 **name lookup** [http://www.cs.technion.ac.il/users/yechiel/CS/FAQs/c++-faq/nondependent-name-lookup-members.html](http://www.cs.technion.ac.il/users/yechiel/CS/FAQs/c++-faq/nondependent-name-lookup-members.html)  
 **SIMD sort** [https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)  
 **call by value/reference** [https://twitter.com/TartanLlama/status/1539309043004674048](https://twitter.com/TartanLlama/status/1539309043004674048)  
-**mingw** [https://nuwen.net/mingw.html](https://nuwen.net/mingw.html)
+**mingw** [https://nuwen.net/mingw.html](https://nuwen.net/mingw.html)  
+**hash_table** [http://bannalia.blogspot.com/2013/10/implementation-of-c-unordered.html](http://bannalia.blogspot.com/2013/10/implementation-of-c-unordered.html)  
 
 
 ## Haskell
