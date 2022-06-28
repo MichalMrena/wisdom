@@ -22,6 +22,7 @@ Useful links leading to wisdom.
 **call by value/reference** [https://twitter.com/TartanLlama/status/1539309043004674048](https://twitter.com/TartanLlama/status/1539309043004674048)  
 **mingw** [https://nuwen.net/mingw.html](https://nuwen.net/mingw.html)  
 **hash_table** [http://bannalia.blogspot.com/2013/10/implementation-of-c-unordered.html](http://bannalia.blogspot.com/2013/10/implementation-of-c-unordered.html)  
+**sso** [https://news.ycombinator.com/item?id=22198158](https://news.ycombinator.com/item?id=22198158)  
 
 
 ## Haskell
