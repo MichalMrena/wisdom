@@ -23,7 +23,7 @@ Useful links leading to wisdom.
 **mingw** [https://nuwen.net/mingw.html](https://nuwen.net/mingw.html)  
 **hash_table** [http://bannalia.blogspot.com/2013/10/implementation-of-c-unordered.html](http://bannalia.blogspot.com/2013/10/implementation-of-c-unordered.html)  
 **sso** [https://news.ycombinator.com/item?id=22198158](https://news.ycombinator.com/item?id=22198158)  
-
+**deducing this** [https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
