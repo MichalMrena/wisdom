@@ -25,6 +25,7 @@ Useful links leading to wisdom.
 **sso** [https://news.ycombinator.com/item?id=22198158](https://news.ycombinator.com/item?id=22198158)  
 **deducing this** [https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)  
 **project structure** [https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html)  
+**cmake** [https://cliutils.gitlab.io/modern-cmake/chapters/basics.html](https://cliutils.gitlab.io/modern-cmake/chapters/basics.html)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
