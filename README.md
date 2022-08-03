@@ -26,6 +26,7 @@ Useful links leading to wisdom.
 **deducing this** [https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)  
 **project structure** [https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html)  
 **cmake** [https://cliutils.gitlab.io/modern-cmake/chapters/basics.html](https://cliutils.gitlab.io/modern-cmake/chapters/basics.html)  
+**concurrency** [https://www.youtube.com/watch?v=F6Ipn7gCOsY&ab_channel=CppCon](https://www.youtube.com/watch?v=F6Ipn7gCOsY&ab_channel=CppCon)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
