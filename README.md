@@ -28,6 +28,7 @@ Useful links leading to wisdom.
 **cmake** [https://cliutils.gitlab.io/modern-cmake/chapters/basics.html](https://cliutils.gitlab.io/modern-cmake/chapters/basics.html)  
 **concurrency** [https://www.youtube.com/watch?v=F6Ipn7gCOsY&ab_channel=CppCon](https://www.youtube.com/watch?v=F6Ipn7gCOsY&ab_channel=CppCon)  
 **iceberg** [https://fouronnes.github.io/cppiceberg/](https://fouronnes.github.io/cppiceberg/)  
+**cache** [https://www.youtube.com/watch?v=WDIkqP4JbkE&ab_channel=NOKIATechnologyCenterWroc%C5%82aw](https://www.youtube.com/watch?v=WDIkqP4JbkE&ab_channel=NOKIATechnologyCenterWroc%C5%82aw)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
