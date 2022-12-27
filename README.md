@@ -30,6 +30,7 @@ Useful links leading to wisdom.
 **iceberg** [https://fouronnes.github.io/cppiceberg/](https://fouronnes.github.io/cppiceberg/)  
 **cache** [https://www.youtube.com/watch?v=WDIkqP4JbkE&ab_channel=NOKIATechnologyCenterWroc%C5%82aw](https://www.youtube.com/watch?v=WDIkqP4JbkE&ab_channel=NOKIATechnologyCenterWroc%C5%82aw)  
 **asan** [https://twitter.com/TartanLlama/status/1597636829867802625?t=c99izMdaub-oVK0WOapcMA&s=19](https://twitter.com/TartanLlama/status/1597636829867802625?t=c99izMdaub-oVK0WOapcMA&s=19)  
+**capture this** [https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change](https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change)  
 
 
 ## Haskell
