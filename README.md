@@ -31,7 +31,7 @@ Useful links leading to wisdom.
 **cache** [https://www.youtube.com/watch?v=WDIkqP4JbkE&ab_channel=NOKIATechnologyCenterWroc%C5%82aw](https://www.youtube.com/watch?v=WDIkqP4JbkE&ab_channel=NOKIATechnologyCenterWroc%C5%82aw)  
 **asan** [https://twitter.com/TartanLlama/status/1597636829867802625?t=c99izMdaub-oVK0WOapcMA&s=19](https://twitter.com/TartanLlama/status/1597636829867802625?t=c99izMdaub-oVK0WOapcMA&s=19)  
 **capture this** [https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change](https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change)  
-
+**optimizations** [https://www.youtube.com/watch?v=nXaxk27zwlk](https://www.youtube.com/watch?v=nXaxk27zwlk)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
