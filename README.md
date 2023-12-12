@@ -33,6 +33,7 @@ Useful links leading to wisdom.
 **capture this** [https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change](https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change)  
 **optimizations** [https://www.youtube.com/watch?v=nXaxk27zwlk](https://www.youtube.com/watch?v=nXaxk27zwlk)  
 **\*(\*char)0 = 0** [https://www.youtube.com/watch?v=dFIqNZ8VbRY](https://www.youtube.com/watch?v=dFIqNZ8VbRY)  
+**compilers** [https://www.youtube.com/watch?v=w0sz5WbS5AM](https://www.youtube.com/watch?v=w0sz5WbS5AM)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
