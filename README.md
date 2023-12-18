@@ -34,6 +34,7 @@ Useful links leading to wisdom.
 **optimizations** [https://www.youtube.com/watch?v=nXaxk27zwlk](https://www.youtube.com/watch?v=nXaxk27zwlk)  
 **\*(\*char)0 = 0** [https://www.youtube.com/watch?v=dFIqNZ8VbRY](https://www.youtube.com/watch?v=dFIqNZ8VbRY)  
 **compilers** [https://www.youtube.com/watch?v=w0sz5WbS5AM](https://www.youtube.com/watch?v=w0sz5WbS5AM)  
+**move/fwd** [https://www.foonathan.net/2020/09/move-forward/](https://www.foonathan.net/2020/09/move-forward/)  
 
 ## Haskell
 **folds** [https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960](https://github.com/hasura/graphql-engine/pull/2933#discussion_r328821960)  
